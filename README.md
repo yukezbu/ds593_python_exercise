@@ -1,1 +1,1 @@
-# DS593_start
+# ds593_python_exercise
